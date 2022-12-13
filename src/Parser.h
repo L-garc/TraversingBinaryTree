@@ -2,7 +2,7 @@
  * Parser.h
  *
  *  Created on: Dec 2, 2022
- *      Author: Lgarc
+ *
  */
 
 #ifndef PARSER_H_

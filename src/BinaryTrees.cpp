@@ -2,7 +2,7 @@
  * BinaryTrees.cpp
  *
  *  Created on: Dec 2, 2022
- *      Author: Lgarc
+ *
  */
 #include <iostream>
 #include <cstddef>

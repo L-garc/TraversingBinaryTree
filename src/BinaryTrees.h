@@ -2,7 +2,7 @@
  * BinaryTrees.h
  *
  *  Created on: Dec 2, 2022
- *      Author: Lgarc
+ *
  */
 
 #ifndef BINARYTREES_H_

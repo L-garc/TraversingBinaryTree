@@ -2,7 +2,7 @@
  * Parser.cpp
  *
  *  Created on: Dec 2, 2022
- *      Author: Lgarc
+ *
  */
 
 #include "Parser.h"

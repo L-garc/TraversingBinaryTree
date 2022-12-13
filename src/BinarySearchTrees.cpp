@@ -1,10 +1,5 @@
 //============================================================================
 // Name        : BinarySearchTrees.cpp
-// Author      : Luis Garcia
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//The professor named this file Trees.cpp
 //============================================================================
 
 #include <iostream>
